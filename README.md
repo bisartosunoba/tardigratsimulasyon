@@ -19,5 +19,6 @@ Simulasyondaki amaç bu hayvanın hangi şartlar altında Tun Modu'na girceği h
 
 <img width="275" height="183" alt="resim" src="https://github.com/user-attachments/assets/f7901bba-7a81-41ab-a755-2c4c8550b4ac" />
 
+![GitHub Repo Card](https://githubcard.com/bisartosunoba/tardigratsimulasyon.svg)
 
 
